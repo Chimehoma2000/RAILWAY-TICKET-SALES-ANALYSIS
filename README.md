@@ -1,5 +1,6 @@
 # RAILWAY-TICKET-SALES-ANALYSIS
-----------------------------------
+----------------------------------  
+![Image](https://github.com/user-attachments/assets/98835521-db71-4961-a8e2-9f7a52850628)
 ##  _Overview_ 
 
 The Railway Sales Ticketing dataset provides transactional and customer-related information for 31,654 railway ticket purchases across various regions of the United Kingdom. This dataset captures a comprehensive range of details about ticket transactions, customer demographics, journey specifics, and payment methods, allowing for in-depth analysis of railway ticket sales patterns, technical issues, and refunds.
